@@ -159,3 +159,5 @@ Defina uma licença antes de distribuir ou aceitar contribuições. Verifique ta
 ## Créditos
 
 Projeto comunitário para apoiar a inspeção e preparação de texturas em mods de GTA San Andreas, SAMP e CRMP.
+
+Dev Clayton 
